@@ -1,4 +1,4 @@
-kjub
+legacy-memes
 
 "A Donation of Silk",2,TDP,Quest,1,8eed8df4-ffdc-40b4-a601-cb1621a14902
 "A Final Blow",2,MoL,Quest,2,408522cd-f3b9-4f1c-b4a4-b3b4f552367f
@@ -8,21 +8,21 @@ ALAMO,1,DoW,Ally,3,b04ffdb5-d5ca-410a-abd1-74849488f7a8
 "Absorb Magic",2,MoL,Ability,2,3f6c373e-c650-496e-a996-4d44b5f446bd
 "Abyss Walker's Boots",1,MoL,Equipment,2,5be9cdae-45a0-4962-a764-0d2ca675cb9f
 "Adam Eternum",1,FoH,Ally,3,9ae0431a-357a-42c6-8dfd-147d1af5adc4
-"Aegis of the Vindicator",1,MLT,Equipment,1,63b72d3d-396c-420d-8472-3b12bca1cdcb
 "Akama's Promise",4,HfI,Quest,2,c5fe7686-8cbc-4ac5-8abb-1ee31f3a7270
 "Alexi Barov",1,DoW,Ally,3,1e17845a-1fdf-4743-8bb7-f92b084785ef
 "An Improper Burial",2,SoB,Quest,2,8c8081d6-084e-40b8-8f4e-52e3b0afe657
 "Antikron the Unyielding",3,SoB,Ally,2,6bb772d6-3c98-475e-b54b-8e6da11d6047
 "Antonidas's Aegis of Rapt Concentration",2,BoG,Equipment,3,e977fe18-a379-4146-86c9-9b956932f2fd
-Apocanon,1,SoB,Ally,2,1877d0c3-22f9-436c-b7c5-63aa87a2a8aa
 "Apprentice Merry",3,TDP,Ally,1,2a78a7e0-2146-4c26-9c4e-cb8899c2d6cd
+"Arcanite Dragonling",2,DoW,Equipment,3,0edfa776-d1fc-429b-b130-83d488ab19ba
 Azaloth,1,HfI,Ally,2,a47ed1bf-e021-4c54-94b0-12b19ce3365f
 "Band of the Inevitable",1,HfI,Equipment,2,b7997ae1-781d-4d49-b042-4f1e5da6c62f
-"Banish to the Nether",3,SoB,Ability,2,6888bfd5-62e1-4a26-bb9f-e78c709f0f78
+"Banish to the Nether",2,SoB,Ability,2,6888bfd5-62e1-4a26-bb9f-e78c709f0f78
 "Big Game Hunter",2,HoA,Quest,1,509cd1d3-46bd-4817-9a3d-4fa4e8d19d0a
 "Bimble Blackout",2,HfI,Ally,2,a4f053ba-5302-4f48-ae46-24ebf9c1db89
 "Blast Wave",3,HfI,Ability,2,44c30786-b8d9-4fcd-b2c8-c129ab6c972f
 "Blessed Life",2,SoB,Ability,2,3a2274ca-c3fd-42a7-ba3a-453c82f641e3
+"Blessing of Wisdom",1,HoA,Ability,1,bb129be8-4cbc-465d-ac85-12a9dc5c4d76
 Blinky,1,MoL,Ally,2,34534ef0-8eed-46aa-aa0d-3b3af037aaca
 "Blistering Fire",2,TDP,Ability,1,a586f6dc-c708-4aa4-8da2-6ccf64649fa4
 "Blood Knight Kyria",3,HfI,Ally,2,acf5df0d-7624-49d7-a281-c3980300370d
@@ -30,30 +30,37 @@ Bloodrage,1,TDP,Ability,1,94cb7707-487e-489b-9552-2832da9c2cb5
 Bloodsoul,3,MoL,Ally,2,eb5081e9-0a28-479d-950a-7145b9fa7634
 "Bloody Ritual",2,DoW,Ability,3,8b0c7e2d-efd0-453a-acb9-85d8ece7ad07
 "Bloody Welcome",3,MoL,Ability,2,a23cce6e-929a-4d3a-b3c5-fe8d6d5cd199
-Bogspike,3,SoB,Ally,2,1d1e52c1-f349-4115-9430-3c668dd21bda
+Bogspike,2,SoB,Ally,2,1d1e52c1-f349-4115-9430-3c668dd21bda
 "Bracers of the Green Fortress",1,CRP,Equipment,2,e3f0a60a-f7cf-4b62-9416-80281982331c
 "Braxxis' Staff of Slumber",1,MoL,Equipment,2,46843fe0-75e3-499a-9138-20772f928d78
 "Brok Bloodcaller",2,HfI,Ally,2,dc1635ae-79b8-45ee-9a21-ecf749a5edcc
 "Call of the Wild",3,FoO,Ability,1,df51fd9d-e607-431c-abe8-44a85af73c69
 "Caretaker Heartwing",2,MoL,Ally,2,492b82f1-ce8d-428b-a1a2-4c31f74511f2
 "Chew Toy",2,SoB,Ability,2,3c98769a-d4f6-4cb7-bb1a-89cb0cc94f4d
+"Chromatic Cloak",1,HoA,Equipment,1,ceb5f018-147b-46ac-893e-ca09f23ce0eb
 Claw,3,TDP,Ability,1,1c9c4900-6642-4299-bc50-430d9009bb51
 "Cloak of the Pit Stalker",1,MLT,Equipment,1,12cb0b40-13ba-42e0-8437-0fb550c5a0bc
 "Crimson Shocker",2,MoL,Equipment,2,fbcd4c5f-4dd1-413d-8bdd-b648a7f7ee10
 "Crown of the Earth",3,TDP,Quest,1,51f1af1b-ec15-4412-9652-5553d70484a0
 "Crush Soul",2,HfI,Ability,2,120b380b-9e2b-4bd6-9e9b-11db620f8a04
+"Cut to the Chase",1,SoB,Ability,2,32a16bd7-b0a8-4acf-90aa-cc50b1c61c15
 Darkness,2,SoB,Ability,2,4fec31f7-4c50-491d-aeb9-1c589a596737
+"Deafening Shout",1,SoB,Ability,2,71fd7fbb-7b59-40b4-aef9-3644fc4f66a4
 Deathblow,3,DoW,Ability,3,1e2980ab-d48f-4d84-a54d-2781035eca62
+"Doom Blossom",3,BT,Ability,2,45299291-4d1f-4843-8d35-f54fa30c10d2
 "Doomplate Legguards",1,FoO,Equipment,1,70b1ed31-7f90-4960-8b0f-2e4726ae9c28
 "Doomsayer Din'ju",1,DoW,Ally,3,37d09cb4-45f4-47cc-b301-24914a315399
 "Doshura Risestrider",3,MoL,Ally,2,b0b3504a-e494-4184-abe1-9ab31f37a3e2
 "Dr. Boom!",4,SoB,Quest,2,c2d061ad-ce1e-4453-b066-539e60988794
 "Electrified Dagger",1,DoW,Equipment,3,070230ad-8c8a-4d20-9878-99e4cf099cef
 "Engulfing Blaze",2,DoW,Ability,3,c03587d0-0301-4f31-a563-f89339b051e4
+Equalize,1,DoW,Ability,3,df554657-9e3f-49c9-9c3f-9768b25d6694
+"Explosive Trap",2,FoH,Ability,3,18d01ffc-2a9f-4896-9380-ded619da0adb
 "Eye of the Storm",4,FoH,Location,3,1817638a-585a-4bf1-a66a-427b101998d0
 "Faith Healer's Boots",1,FoO,Equipment,1,41204ee4-9acc-4c27-bf57-d1bf2c8d01ff
 "Falling to Corruption",2,MoL,Quest,2,ca997d98-86bb-44fa-bf25-b7ae580b9716
 "Feign Death",2,SoB,Ability,2,a89f619d-b285-4c08-81cd-687a01176b86
+"Finishing Shout",1,HfI,Ability,2,3d452b96-158a-458a-a718-828a6161ed4a
 "Finkle Einhorn, At Your Service!",3,TDP,Quest,1,f4571344-5da5-4843-91bb-12597196cf9d
 "Fire Elemental Totem",2,FoO,"Ability Ally",1,df372c55-a582-4a9f-8cd2-1f876a494972
 "Fire Power",2,MoL,Ability,2,59f3e981-d6b7-4709-abd7-bd7f1358722c
@@ -71,9 +78,14 @@ Deathblow,3,DoW,Ability,3,1e2980ab-d48f-4d84-a54d-2781035eca62
 "Groundshaker Earnheart",1,MoL,Ally,2,17630140-c783-4f95-aee0-06b381e3bec6
 "Gut Shot",2,SoB,Ability,2,f6b9cadd-f3c3-4b7b-83de-b190a10b5c6a
 "Hammer of Justice",3,HoA,Ability,1,cbe392ae-1aeb-410d-972e-5b32206290f0
+"Hateful Strike",2,BT,Ability,2,8ef1808b-ce7c-49bc-bb08-5346a0260321
+Heartburn,2,BoG,Ability,3,a2be67ad-839c-4bee-b581-3c76e8b6ea16
+"Heavy Netherweave Bandage",1,MLT,Equipment,1,2811c70a-2fc1-4ee1-81ae-e2743b92d965
 "Heroic Strike",2,HoA,Ability,1,bab05150-a4af-4400-b525-626fa6266b47
 Hesriana,1,FoH,Ally,3,66c2f8cc-659a-4146-a23c-3d2bda9a35cb
 "Hex Doctor No'jin",3,BoG,Ally,3,c79ef71e-8a66-48f5-8549-7c0829e098a9
+Hibernate,2,DoW,Ability,3,2f85a153-d43c-4d57-96a8-e86fa0bdcf4e
+"Highlord Bolvar Fordragon",1,SoB,Ally,2,ce7fb253-010d-4f41-a80b-328ba5e78ce3
 "Holy Shock",2,HfI,Ability,2,dbb7a416-84f3-4c16-8bd6-3e1ba04c832d
 "Information Gathering",2,SoB,Quest,2,2dd6fc6f-0511-4b0b-a210-a4bb494ecb02
 "Instructor Giralo",3,HfI,Ally,2,436c1d1c-e254-4b21-a481-7f3234dcfe96
@@ -94,6 +106,7 @@ Kronore,1,SoB,Ally,2,c2bef2c7-32ff-4883-ae03-429cca507bb1
 "Lady Kath",1,TDP,Ally,1,7db1c15e-ad48-4291-9d1e-d25356f8ce75
 "Lesser Heal",2,HfI,Ability,2,760eb091-a421-481f-8736-0262ddd5d402
 "Lightning Reflexes",2,TDP,Ability,1,45caadc0-b0c7-4f12-8899-51487f5e4978
+"Major Healing Potion",1,ARC,Equipment,1,17a3fefe-8b43-43a7-b5b2-dbefbed2d209
 "Mana Ruby",2,BoG,Ability,3,fbf4fa37-b16c-46a1-b50f-02a476600934
 "Mana Tide Totem",2,TDP,"Ability Ally",1,2ef0abca-bc3c-4b8d-af6c-56377cc6e803
 "Marksman Eowan",1,SoB,Ally,2,94f7057d-63e1-40a4-a7cd-6b2013bcd8e4
@@ -103,11 +116,14 @@ Kronore,1,SoB,Ally,2,c2bef2c7-32ff-4883-ae03-429cca507bb1
 "Mikael the Blunt",3,BoG,Ally,3,399223fd-1eea-441b-a05c-eb539364680e
 "Myriam Starcaller",3,SoB,Ally,2,d6861ad4-2d93-4b51-a256-17da92ca6bea
 "Mystic Denial",2,DoW,Ability,3,52d6f83a-a8c8-4578-b596-c2bde0c2aaa7
+"Nature Unleashed",1,DoW,Ability,3,b69ae0c9-671d-4ba8-a3cd-231174fdcc7b
 "Nature of the Beast",2,TDP,Ability,1,aba76efd-6e38-4213-a38c-e5448504d63d
 "Niyore of the Watch",2,SoB,Ally,2,324a9e51-e99e-4b89-91b1-cd381e0db66a
 "One Draenei's Junk",4,FoO,Quest,1,a13e884d-7549-43d3-9332-6e6ec099e8cb
 "Orders From Lady Vashj",4,SoB,Quest,2,b14d2ac8-3668-4157-9dbd-a06a1b7ecb88
 "Pack Tactics",2,FoH,Ability,3,ff4d3f7d-2018-4647-ac92-6602aa94b880
+"Phase Hound",2,BoG,Ally,3,a337258e-3e2e-44af-9273-af883e90562a
+Pilfer,2,SoB,Ability,2,ca28c06d-0982-4cb8-a1c3-1519020490f5
 "Predatory Gloves",2,FoO,Equipment,1,ab5fbfeb-c581-4623-8877-732e45ea1aaf
 "Predatory Strikes",2,HoA,Ability,1,e7325676-40d7-4499-8331-f9ed9f462e8c
 "Primal Totem",3,DoW,"Ability Ally",3,e36b23f7-65a7-497f-b530-bfa4979f9e30
@@ -117,7 +133,7 @@ Puncture,3,MoL,Ability,2,fa6761da-3ebe-4363-96da-1a86d46a35bf
 Rake,2,TDP,Ability,1,75c0f811-e391-41ec-b3c6-79dce44c1e3b
 Redemption,3,FoO,Ability,1,3a5b4e97-c56b-4bcd-ab0f-06a79ef14e7e
 Rek'gar,2,FoO,Ally,1,6ae42da1-3e1a-4545-b664-5d36ccb9c77b
-"Ripped through the Portal",2,SoB,Ability,2,06072f84-cd73-4631-9596-5c305cb83944
+"Ripped through the Portal",1,SoB,Ability,2,06072f84-cd73-4631-9596-5c305cb83944
 "Rula Blackfist",2,DoW,Ally,3,2bca2054-2073-4959-a042-816228e447d0
 "Rysa the Earthcaller",2,SoB,Ally,2,a50503b2-7b24-47cd-92a1-54d8e322a48e
 "Sacred Purification",2,MoL,Ability,2,8ada1ce3-7d9b-4706-ab93-3b7f693a7434
@@ -129,7 +145,10 @@ Scraps,1,MoL,Ally,2,bde29eac-293e-4520-939d-d252c5a36fff
 "Shuriken of Negation",2,BoG,Equipment,3,a68caa6b-8448-4d3a-82df-421b83d38d94
 "Sinister Strike",2,HoA,Ability,1,a9c54150-20b0-40a6-a719-45ee2587b8b5
 "Skyfire Hawk-Bow",2,MoL,Equipment,2,517efe9b-2175-4da0-bc82-eb93f2d24c7e
+Smash,2,SoB,Ability,2,bce8303b-0bc2-4576-88d0-45d90eca75e3
 "Smoke or Croak",2,HfI,Ability,2,6e4a1f41-3e5c-4a3d-96ad-7eb70fea0b56
+"Smoldering Blast",3,SW,Ability,4,0713aa6c-1b27-4d6f-a4e4-75cb63f16949
+Snipe,2,DoW,Ability,3,2f7274c0-baaa-4284-b157-de7c623dde2d
 "Solanian's Belongings",3,TDP,Quest,1,d470b291-6f02-4dd5-b352-ea54c0657abc
 "Soup for the Soul",2,DoW,Quest,3,7b770cd3-e66b-4f5c-b166-3799935746a2
 "Steelsmith Joseph Carroll",2,TDP,Ally,1,be3e8712-7ed1-43c6-a427-1a9e334c7d83
@@ -137,6 +156,7 @@ Scraps,1,MoL,Ally,2,bde29eac-293e-4520-939d-d252c5a36fff
 "Striker's Mark",2,MCT,Equipment,1,b50634a4-d02c-4c0a-a6ea-86c2d0559093
 "Sudden Death",2,SoB,Ability,2,1f70ec4a-142f-49c2-9835-acec3b0b97e0
 "Surge of Adrenaline",1,DoW,Ability,3,b5d1affc-71e6-476b-b5ea-5aeb2cd82a4b
+Swipe,3,MoL,Ability,2,7f2c5c9a-bc7d-408d-8813-eb75e665ca73
 Syluri,2,MoL,Ally,2,b338bb61-6cbf-4a3c-886e-ac5f37dd186a
 "Tabards of the Illidari",4,HfI,Quest,2,be0637bd-95bd-426c-81fc-f5f549d54459
 "Tatulla the Reclaimer",2,SoB,Ally,2,cc770473-bb5c-4ba9-ad14-fc6606a0427b
@@ -146,11 +166,13 @@ Syluri,2,MoL,Ally,2,b338bb61-6cbf-4a3c-886e-ac5f37dd186a
 "The Darkmoon Faire",4,DMF,Location,2,4bf495fc-565c-4125-b245-a8e74640d99e
 "The Defias Brotherhood",2,HoA,Quest,1,9dd1991a-5e50-4d8a-8ba1-7203c2922d9d
 "The Final Message to the Wildhammer",2,DoW,Quest,3,e5835c42-94cf-4e59-aa46-13a5fc729114
+"The Light's Largess",2,MoL,Ability,2,0b674f18-dd67-43ee-b0c5-852dcacd12bc
+"The Promises of Darkness",2,BoG,Ability,3,87a5407d-c220-473d-8bab-d9cad5c1561c
 "The Ring of Blood: Brokentoe",3,BoG,Quest,3,2ec239c3-dd3e-434e-a7b6-b64967f889ac
 "The Ring of Blood: The Blue Brothers",2,BoG,Quest,3,e3d3762f-4143-4ffc-be03-353dbfe720fa
 "The Ring of Blood: The Warmaul Champion",2,BoG,Quest,3,a6174660-3c96-4b3b-90ea-877689e1a41f
 Thud!,2,DoW,Ability,3,e36cce88-00fa-4ebf-b78b-614bb7d3623d
-Thulthun,3,MoL,Ally,2,8e2113a4-8f5e-491f-86cc-e4fa1f9a8559
+Thulthun,2,MoL,Ally,2,8e2113a4-8f5e-491f-86cc-e4fa1f9a8559
 Timeslicer,2,FoO,Equipment,1,f22036cd-b613-415a-86e8-6ab032d232bb
 Tithe,3,FoH,Ability,3,3e6d0121-d941-456a-9a14-9074b0535ed9
 "Totemic Recovery",2,SoB,Ability,2,047b643c-6123-41dd-83e9-5b4480e07003

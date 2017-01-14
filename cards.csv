@@ -11,6 +11,7 @@ ALAMO,1,DoW,Ally,3,b04ffdb5-d5ca-410a-abd1-74849488f7a8
 "Akama's Promise",4,HfI,Quest,2,c5fe7686-8cbc-4ac5-8abb-1ee31f3a7270
 "Alexi Barov",1,DoW,Ally,3,1e17845a-1fdf-4743-8bb7-f92b084785ef
 "An Improper Burial",2,SoB,Quest,2,8c8081d6-084e-40b8-8f4e-52e3b0afe657
+"Anchorite Onkoth",2,SoB,Ally,2,a6574fc5-a6b1-42bc-bd0e-034af11f768a
 "Antikron the Unyielding",3,SoB,Ally,2,6bb772d6-3c98-475e-b54b-8e6da11d6047
 "Antonidas's Aegis of Rapt Concentration",2,BoG,Equipment,3,e977fe18-a379-4146-86c9-9b956932f2fd
 "Apprentice Merry",3,TDP,Ally,1,2a78a7e0-2146-4c26-9c4e-cb8899c2d6cd
@@ -33,9 +34,11 @@ Bloodsoul,3,MoL,Ally,2,eb5081e9-0a28-479d-950a-7145b9fa7634
 Bogspike,2,SoB,Ally,2,1d1e52c1-f349-4115-9430-3c668dd21bda
 "Bracers of the Green Fortress",1,CRP,Equipment,2,e3f0a60a-f7cf-4b62-9416-80281982331c
 "Braxxis' Staff of Slumber",1,MoL,Equipment,2,46843fe0-75e3-499a-9138-20772f928d78
+"Brelnor Mindbender",2,DoW,Ally,3,dc5599dc-79e6-4792-be29-d9d18fb25356
+"Broan Charges-the-Fight",2,FoO,Ally,1,e2785116-65ba-4756-ad9e-bc7d4bad047e
 "Brok Bloodcaller",2,HfI,Ally,2,dc1635ae-79b8-45ee-9a21-ecf749a5edcc
 "Call of the Wild",3,FoO,Ability,1,df51fd9d-e607-431c-abe8-44a85af73c69
-"Caretaker Heartwing",2,MoL,Ally,2,492b82f1-ce8d-428b-a1a2-4c31f74511f2
+"Caretaker Heartwing",3,MoL,Ally,2,492b82f1-ce8d-428b-a1a2-4c31f74511f2
 "Chew Toy",2,SoB,Ability,2,3c98769a-d4f6-4cb7-bb1a-89cb0cc94f4d
 "Chromatic Cloak",1,HoA,Equipment,1,ceb5f018-147b-46ac-893e-ca09f23ce0eb
 Claw,3,TDP,Ability,1,1c9c4900-6642-4299-bc50-430d9009bb51
@@ -72,6 +75,7 @@ Equalize,1,DoW,Ability,3,df554657-9e3f-49c9-9c3f-9768b25d6694
 "Gang Up",3,DoW,Ability,3,2344c934-d45f-4706-b4c2-b2984cc81305
 "Gauntlets of Vindication",2,FoO,Equipment,1,b9477959-8949-4250-87c1-6674ce2cf2b9
 "Girdle of Uther",1,HoA,Equipment,1,9051d7a6-1054-455b-90ea-922910cee0ee
+Givon,2,MoL,Ally,2,d3112f6b-d0fa-4ed0-aa96-d069fb92ac28
 "Glacial Blade",1,DoW,Equipment,3,bb1cdb51-3c24-4767-9862-1cc43fd95e8f
 "Greater Heal",2,TDP,Ability,1,0337416c-1895-4d28-b540-7140e7f91b3a
 "Grounding Totem",3,DoW,"Ability Ally",3,eaf15330-d01a-4b2c-98f2-5415dcaefd71
@@ -92,6 +96,7 @@ Hibernate,2,DoW,Ability,3,2f85a153-d43c-4d57-96a8-e86fa0bdcf4e
 Invocation,1,SoB,Ability,2,c40b0dc5-e414-4dd9-b7aa-3307d2d45f59
 "Invoke the Nether",1,MoL,Ability,2,0eb0fe2e-f015-4486-b53f-3c244385a1d8
 "Ishanah, High Priestess of the Aldor",1,MoL,Ally,2,41766f66-9c39-4427-bda3-94f5f08eeef2
+"Jeleane Nightbreeze",2,TDP,Ally,1,8bc1fed4-d128-4783-8ac5-bc649ffbfabd
 Joja'bee,2,DWS,Ally,3,3fc43eed-fb66-47d5-852a-568a28792fc4
 "Jubilee Arcspark",3,FoO,Ally,1,2d9d639d-7592-4f95-be05-4b1eece9699d
 "Julia Graves",2,TDP,Ally,1,df01a1a3-238b-4001-8959-629eaaae3651
@@ -119,9 +124,12 @@ Kronore,1,SoB,Ally,2,c2bef2c7-32ff-4883-ae03-429cca507bb1
 "Nature Unleashed",1,DoW,Ability,3,b69ae0c9-671d-4ba8-a3cd-231174fdcc7b
 "Nature of the Beast",2,TDP,Ability,1,aba76efd-6e38-4213-a38c-e5448504d63d
 "Niyore of the Watch",2,SoB,Ally,2,324a9e51-e99e-4b89-91b1-cd381e0db66a
+"Offender Gora",2,HfI,Ally,2,a993fb0f-d49e-4ff8-a7fb-e41953ad9526
 "One Draenei's Junk",4,FoO,Quest,1,a13e884d-7549-43d3-9332-6e6ec099e8cb
 "Orders From Lady Vashj",4,SoB,Quest,2,b14d2ac8-3668-4157-9dbd-a06a1b7ecb88
 "Pack Tactics",2,FoH,Ability,3,ff4d3f7d-2018-4647-ac92-6602aa94b880
+"Pappy Ironbane",1,BoG,Ally,3,a5137ded-eb0f-410a-b63b-923a6dfb299b
+Parvink,2,HoA,Ally,1,0dcd1535-cebc-499b-ac60-593a0d3566ac
 "Phase Hound",2,BoG,Ally,3,a337258e-3e2e-44af-9273-af883e90562a
 Pilfer,2,SoB,Ability,2,ca28c06d-0982-4cb8-a1c3-1519020490f5
 "Predatory Gloves",2,FoO,Equipment,1,ab5fbfeb-c581-4623-8877-732e45ea1aaf
@@ -131,9 +139,11 @@ Puncture,3,MoL,Ability,2,fa6761da-3ebe-4363-96da-1a86d46a35bf
 "Pyroclastic Consumption",1,DoW,Ability,3,1559ec82-026e-4b2a-bbb0-71de52752313
 "Rak Skyfury",2,HoA,Ally,1,eb261a30-879d-42dc-9c97-51110f4a5308
 Rake,2,TDP,Ability,1,75c0f811-e391-41ec-b3c6-79dce44c1e3b
+"Ras'fari Bloodfrenzy",2,SoB,Ally,2,3c29b2a6-d597-4e39-9cf5-3a0921b94c8b
 Redemption,3,FoO,Ability,1,3a5b4e97-c56b-4bcd-ab0f-06a79ef14e7e
 Rek'gar,2,FoO,Ally,1,6ae42da1-3e1a-4545-b664-5d36ccb9c77b
 "Ripped through the Portal",1,SoB,Ability,2,06072f84-cd73-4631-9596-5c305cb83944
+"Ruala the Spotter",2,MoL,Ally,2,7e93135e-0efa-486c-bde2-d504be9b6486
 "Rula Blackfist",2,DoW,Ally,3,2bca2054-2073-4959-a042-816228e447d0
 "Rysa the Earthcaller",2,SoB,Ally,2,a50503b2-7b24-47cd-92a1-54d8e322a48e
 "Sacred Purification",2,MoL,Ability,2,8ada1ce3-7d9b-4706-ab93-3b7f693a7434
@@ -144,6 +154,7 @@ Scraps,1,MoL,Ally,2,bde29eac-293e-4520-939d-d252c5a36fff
 "Seraph the Exalted",1,TDP,Ally,1,9d2fa40f-1033-4b9c-87ce-4f51512e204c
 "Shuriken of Negation",2,BoG,Equipment,3,a68caa6b-8448-4d3a-82df-421b83d38d94
 "Sinister Strike",2,HoA,Ability,1,a9c54150-20b0-40a6-a719-45ee2587b8b5
+"Sister Rot",2,TDP,Ally,1,562ca224-74de-4e16-9e7e-dc0907eb8a0a
 "Skyfire Hawk-Bow",2,MoL,Equipment,2,517efe9b-2175-4da0-bc82-eb93f2d24c7e
 Smash,2,SoB,Ability,2,bce8303b-0bc2-4576-88d0-45d90eca75e3
 "Smoke or Croak",2,HfI,Ability,2,6e4a1f41-3e5c-4a3d-96ad-7eb70fea0b56
@@ -181,13 +192,14 @@ Tithe,3,FoH,Ability,3,3e6d0121-d941-456a-9a14-9074b0535ed9
 "Vengeful Gladiator's Bonecracker",2,DoW,Equipment,3,c8a86dc9-1214-4e0e-8047-fd94b06c1edb
 "Vengeful Gladiator's Vestments",1,DoW,Equipment,3,abc59911-82e5-43c3-94d9-fab4a4766380
 "Vesperia Silversong",2,SW,Ally,4,77f64c83-19df-4f72-9011-0eee49654ea5
-"Vexmaster Nar'jo",2,SoB,Ally,2,1263571b-57da-4d1b-b4ce-5ff6354fc643
+"Vexmaster Nar'jo",3,SoB,Ally,2,1263571b-57da-4d1b-b4ce-5ff6354fc643
 "Vindicator Javlo",1,HfI,Ally,2,461bbedf-0b1c-4623-9af8-ec3847978559
 "Vindicator's Brand",2,HfI,Equipment,2,589ba0e2-2abc-4af0-895f-5c9838eb63b8
 "Voidfire Wand",1,SoB,Equipment,2,515f670b-0f61-4b43-86e8-a9955eaa0eb5
 "Vorden the Shadowbringer",1,FoO,Ally,1,23d59f90-625b-4a34-9773-0437f93b0a8b
 "Warlord Kalithresh",1,SoB,Ally,2,da9724e3-466a-4212-93f9-fd1d6fde6018
 Weeble,2,MoL,Ally,2,d0b07c17-76b5-47fb-9885-e49c60064fcf
+"Weldon Barov",1,DoW,Ally,3,16ac9f3c-5944-4920-9a9b-0f95652e17dd
 "Whispering Blade of Slaying",3,MoL,Equipment,2,507c1289-8613-44c5-8bb6-e9f6a86ca5b5
 "Will of Arlokk",1,TDP,Equipment,1,0628fb5c-7846-4b69-b743-4b12de442ad7
 "Wimbly Tinkerton",2,HfI,Ally,2,6a6e9cfe-c387-497b-a4f6-f69550024a7e
